@@ -1,0 +1,101 @@
+match_id,event_name,event_date,match_type,wrestler_1,wrestler_2,wrestler_1_win_rate,wrestler_2_win_rate,wrestler_1_recent_form,wrestler_2_recent_form,storyline_rivalry,title_match,winner
+1,WWE SmackDown,4/26/2025,Tag Team,Drew McIntyre,Gunther,63.7,74.7,2,3,0,No,Drew McIntyre
+2,WWE SummerSlam,5/18/2024,Singles,Charlotte Flair,Bianca Belair,45.8,66,5,3,0,Yes,Charlotte Flair
+3,WWE WrestleMania,11/19/2022,Steel Cage,Rhea Ripley,Becky Lynch,62.9,58.4,1,4,0,No,Rhea Ripley
+4,WWE SmackDown,10/16/2023,Singles,Gunther,Roman Reigns,82.1,59.8,2,1,0,No,Gunther
+5,WWE Royal Rumble,10/30/2022,Fatal 4-Way,Seth Rollins,Bianca Belair,64.4,68.9,1,0,0,Yes,Bianca Belair
+6,WWE WrestleMania,12/19/2024,Steel Cage,Gunther,Seth Rollins,40.2,68,0,4,1,Yes,Seth Rollins
+7,WWE SummerSlam,11/25/2025,Steel Cage,Becky Lynch,Bianca Belair,59.6,80.3,4,4,0,Yes,Becky Lynch
+8,WWE WrestleMania,11/4/2024,Singles,Becky Lynch,LA Knight,63.7,53.6,3,4,0,No,LA Knight
+9,WWE WrestleMania,1/12/2025,Tag Team,Drew McIntyre,Becky Lynch,42.6,50.6,0,4,0,Yes,Drew McIntyre
+10,WWE Raw,11/19/2024,Triple Threat,Gunther,Bianca Belair,75.1,53.1,5,5,0,Yes,Bianca Belair
+11,WWE SmackDown,5/10/2022,Fatal 4-Way,Cody Rhodes,Drew McIntyre,61.7,53.6,4,3,1,Yes,Cody Rhodes
+12,WWE SummerSlam,7/14/2025,Triple Threat,Cody Rhodes,Rhea Ripley,73.5,70.7,4,5,0,No,Rhea Ripley
+13,WWE WrestleMania,4/11/2022,Fatal 4-Way,Becky Lynch,Gunther,57.4,45.4,3,5,0,No,Becky Lynch
+14,WWE Raw,10/19/2022,Fatal 4-Way,Seth Rollins,LA Knight,87.4,59.3,4,3,1,No,Seth Rollins
+15,WWE SummerSlam,12/20/2025,Steel Cage,Charlotte Flair,Gunther,51.8,49.6,4,3,0,Yes,Charlotte Flair
+16,WWE SmackDown,9/26/2025,Singles,Rhea Ripley,Bianca Belair,79.7,71.5,5,2,1,Yes,Bianca Belair
+17,WWE WrestleMania,4/17/2023,Triple Threat,Charlotte Flair,Gunther,54.1,87.7,4,5,1,Yes,Gunther
+18,WWE WrestleMania,9/13/2022,Steel Cage,LA Knight,Drew McIntyre,71.1,42.8,1,2,1,Yes,LA Knight
+19,WWE SummerSlam,8/9/2023,Steel Cage,Charlotte Flair,Gunther,52.9,78.4,3,0,0,No,Gunther
+20,WWE Royal Rumble,10/24/2025,Fatal 4-Way,Drew McIntyre,Rhea Ripley,50.6,78.1,0,3,0,No,Drew McIntyre
+21,WWE SmackDown,11/4/2025,Steel Cage,Rhea Ripley,Roman Reigns,58.4,76.1,3,2,0,No,Roman Reigns
+22,WWE Royal Rumble,2/15/2024,Steel Cage,Seth Rollins,Becky Lynch,63.3,51.2,2,4,0,No,Becky Lynch
+23,WWE Royal Rumble,5/16/2025,Tag Team,Seth Rollins,Rhea Ripley,66.2,56.6,0,5,1,Yes,Rhea Ripley
+24,WWE Raw,6/8/2022,Singles,Rhea Ripley,Roman Reigns,54.7,44.7,3,1,1,No,Rhea Ripley
+25,WWE WrestleMania,9/9/2023,Singles,Seth Rollins,Rhea Ripley,59.5,69.6,4,2,0,No,Rhea Ripley
+26,WWE Raw,12/19/2024,Singles,Roman Reigns,Drew McIntyre,67.9,62.2,3,5,1,Yes,Drew McIntyre
+27,WWE SummerSlam,10/7/2025,Steel Cage,Drew McIntyre,Gunther,87.9,45.3,0,5,1,No,Drew McIntyre
+28,WWE Royal Rumble,10/1/2023,Triple Threat,Becky Lynch,Bianca Belair,80.4,51.8,0,4,0,Yes,Bianca Belair
+29,WWE SummerSlam,9/19/2025,Singles,Bianca Belair,LA Knight,79.7,66.9,1,3,0,Yes,LA Knight
+30,WWE SummerSlam,2/6/2024,Tag Team,LA Knight,Charlotte Flair,40.6,61.9,3,0,1,Yes,Charlotte Flair
+31,WWE SummerSlam,7/25/2023,Steel Cage,Becky Lynch,LA Knight,55.6,88.4,3,2,0,No,Becky Lynch
+32,WWE WrestleMania,8/30/2022,Singles,Drew McIntyre,Charlotte Flair,68.3,84.4,3,0,1,Yes,Charlotte Flair
+33,WWE SmackDown,10/14/2022,Steel Cage,Cody Rhodes,Seth Rollins,60.6,83.9,2,3,1,Yes,Cody Rhodes
+34,WWE Raw,5/25/2023,Tag Team,Gunther,Roman Reigns,55.2,76.3,1,2,0,Yes,Roman Reigns
+35,WWE Raw,7/31/2023,Triple Threat,Cody Rhodes,Charlotte Flair,89.7,51.6,1,4,1,Yes,Charlotte Flair
+36,WWE Royal Rumble,6/7/2025,Tag Team,Bianca Belair,Charlotte Flair,51.9,59,1,3,1,No,Charlotte Flair
+37,WWE Raw,7/23/2024,Triple Threat,Cody Rhodes,Charlotte Flair,40.5,61.1,4,2,0,Yes,Charlotte Flair
+38,WWE Raw,4/12/2024,Fatal 4-Way,Cody Rhodes,Charlotte Flair,77.1,54.5,0,4,1,Yes,Cody Rhodes
+39,WWE WrestleMania,8/24/2025,Steel Cage,Charlotte Flair,Seth Rollins,85.4,43.1,4,1,1,No,Charlotte Flair
+40,WWE Royal Rumble,9/27/2024,Fatal 4-Way,Gunther,Becky Lynch,81.1,70.1,1,1,1,No,Gunther
+41,WWE WrestleMania,9/25/2025,Fatal 4-Way,LA Knight,Bianca Belair,50.4,60.4,0,3,0,No,LA Knight
+42,WWE SmackDown,10/4/2025,Fatal 4-Way,Bianca Belair,Becky Lynch,43.7,45.5,1,4,0,Yes,Bianca Belair
+43,WWE SummerSlam,3/24/2024,Tag Team,Gunther,Cody Rhodes,80.6,45.2,4,0,1,No,Gunther
+44,WWE Royal Rumble,10/5/2024,Singles,Bianca Belair,Charlotte Flair,40.3,52.8,0,4,0,Yes,Charlotte Flair
+45,WWE WrestleMania,5/2/2024,Steel Cage,Seth Rollins,Bianca Belair,69.3,59.9,0,2,0,No,Seth Rollins
+46,WWE SmackDown,6/20/2024,Triple Threat,Roman Reigns,Rhea Ripley,76.4,45.2,0,3,0,No,Rhea Ripley
+47,WWE Royal Rumble,1/12/2023,Singles,Bianca Belair,Drew McIntyre,76.1,79.6,2,0,0,Yes,Drew McIntyre
+48,WWE Royal Rumble,11/2/2025,Fatal 4-Way,Roman Reigns,Rhea Ripley,59.6,75.3,1,3,0,Yes,Rhea Ripley
+49,WWE Raw,12/8/2023,Fatal 4-Way,Rhea Ripley,Gunther,65,58.6,1,3,1,Yes,Rhea Ripley
+50,WWE Royal Rumble,9/29/2022,Fatal 4-Way,Roman Reigns,Seth Rollins,40.6,61.2,2,2,1,No,Seth Rollins
+51,WWE WrestleMania,10/3/2023,Triple Threat,Seth Rollins,Cody Rhodes,56.9,73.9,1,0,1,Yes,Seth Rollins
+52,WWE SummerSlam,3/31/2025,Singles,Cody Rhodes,LA Knight,48.6,77.6,2,1,1,Yes,LA Knight
+53,WWE WrestleMania,5/30/2023,Singles,Cody Rhodes,Seth Rollins,55.1,66,3,2,0,No,Cody Rhodes
+54,WWE Royal Rumble,3/13/2022,Fatal 4-Way,Rhea Ripley,Roman Reigns,48.8,66.9,5,4,1,No,Rhea Ripley
+55,WWE SmackDown,7/1/2023,Fatal 4-Way,Gunther,Charlotte Flair,67.1,89.1,5,4,0,Yes,Gunther
+56,WWE SmackDown,3/19/2024,Triple Threat,Charlotte Flair,Seth Rollins,61.9,40.1,3,3,0,Yes,Seth Rollins
+57,WWE SmackDown,11/16/2024,Triple Threat,Bianca Belair,LA Knight,88.3,87.8,0,0,1,Yes,Bianca Belair
+58,WWE Royal Rumble,5/29/2023,Fatal 4-Way,Rhea Ripley,LA Knight,88.6,57.5,1,3,0,Yes,LA Knight
+59,WWE Raw,2/3/2023,Singles,Roman Reigns,Cody Rhodes,83.5,55.1,3,4,0,Yes,Roman Reigns
+60,WWE WrestleMania,8/22/2022,Fatal 4-Way,LA Knight,Seth Rollins,74,87.4,5,0,1,Yes,LA Knight
+61,WWE SummerSlam,6/27/2025,Steel Cage,Cody Rhodes,Becky Lynch,72.8,43.8,0,5,0,No,Becky Lynch
+62,WWE SummerSlam,10/17/2023,Singles,Drew McIntyre,Rhea Ripley,45.4,54.4,0,3,1,No,Rhea Ripley
+63,WWE WrestleMania,1/5/2023,Steel Cage,Seth Rollins,Rhea Ripley,49.1,41.9,0,2,1,Yes,Rhea Ripley
+64,WWE Raw,5/23/2022,Tag Team,Roman Reigns,Drew McIntyre,60.8,43.7,2,3,0,No,Drew McIntyre
+65,WWE SmackDown,7/26/2025,Triple Threat,Charlotte Flair,Roman Reigns,40.5,89.3,1,0,0,No,Charlotte Flair
+66,WWE WrestleMania,10/3/2025,Steel Cage,Bianca Belair,Charlotte Flair,75.6,59.1,5,2,0,No,Bianca Belair
+67,WWE SmackDown,12/30/2025,Singles,Roman Reigns,Cody Rhodes,72.3,63.9,3,5,0,No,Roman Reigns
+68,WWE WrestleMania,3/16/2022,Tag Team,Seth Rollins,Drew McIntyre,62.7,70.1,4,2,1,No,Drew McIntyre
+69,WWE SmackDown,5/29/2025,Singles,Seth Rollins,Becky Lynch,53,53.8,4,2,1,Yes,Seth Rollins
+70,WWE SummerSlam,7/21/2022,Triple Threat,Charlotte Flair,LA Knight,61,56.7,5,2,0,Yes,LA Knight
+71,WWE Raw,3/1/2024,Singles,LA Knight,Becky Lynch,47.7,61.2,4,1,0,No,LA Knight
+72,WWE SummerSlam,8/7/2022,Triple Threat,Gunther,Rhea Ripley,42.3,58.1,4,2,1,No,Gunther
+73,WWE SmackDown,12/29/2022,Fatal 4-Way,Cody Rhodes,Seth Rollins,89.8,41,4,3,1,Yes,Cody Rhodes
+74,WWE WrestleMania,7/27/2024,Fatal 4-Way,Drew McIntyre,Gunther,67.5,83.6,2,1,0,Yes,Gunther
+75,WWE SummerSlam,3/22/2025,Triple Threat,Gunther,Rhea Ripley,68.5,54.3,4,0,0,No,Rhea Ripley
+76,WWE Royal Rumble,7/26/2024,Steel Cage,Becky Lynch,Roman Reigns,61,63.3,2,4,1,No,Roman Reigns
+77,WWE Raw,11/20/2024,Fatal 4-Way,Gunther,Roman Reigns,82.6,49.4,3,0,1,No,Gunther
+78,WWE Raw,12/31/2024,Singles,Charlotte Flair,Seth Rollins,75.4,48,4,4,1,No,Seth Rollins
+79,WWE WrestleMania,11/14/2022,Steel Cage,Becky Lynch,Gunther,43.9,67.7,0,3,1,Yes,Becky Lynch
+80,WWE SummerSlam,12/7/2024,Steel Cage,Gunther,Cody Rhodes,60.3,64.4,1,0,1,Yes,Cody Rhodes
+81,WWE WrestleMania,9/22/2025,Fatal 4-Way,LA Knight,Rhea Ripley,42.4,89.5,1,4,0,No,LA Knight
+82,WWE WrestleMania,3/16/2025,Tag Team,Gunther,Rhea Ripley,74.6,47.8,5,3,1,No,Gunther
+83,WWE WrestleMania,10/21/2025,Singles,Becky Lynch,LA Knight,59,55.8,0,4,0,Yes,LA Knight
+84,WWE Raw,5/1/2022,Steel Cage,Cody Rhodes,Roman Reigns,65.9,89.2,5,4,0,No,Roman Reigns
+85,WWE WrestleMania,8/16/2025,Fatal 4-Way,Drew McIntyre,Rhea Ripley,47.6,82.9,0,0,1,No,Drew McIntyre
+86,WWE SmackDown,2/5/2023,Triple Threat,Charlotte Flair,Roman Reigns,61.1,77.5,4,0,1,Yes,Charlotte Flair
+87,WWE SmackDown,11/10/2023,Steel Cage,Cody Rhodes,Charlotte Flair,67.4,61.5,4,2,0,No,Cody Rhodes
+88,WWE Royal Rumble,2/25/2025,Singles,Roman Reigns,Cody Rhodes,81.7,78.4,5,5,0,No,Roman Reigns
+89,WWE SummerSlam,3/29/2023,Tag Team,Bianca Belair,Roman Reigns,78.3,72.8,2,3,0,No,Bianca Belair
+90,WWE WrestleMania,11/30/2023,Singles,Seth Rollins,Becky Lynch,88.5,52.8,3,3,1,Yes,Becky Lynch
+91,WWE Royal Rumble,12/2/2022,Triple Threat,Gunther,Becky Lynch,65.1,69.1,5,5,1,Yes,Gunther
+92,WWE Royal Rumble,9/7/2025,Steel Cage,Becky Lynch,Gunther,64.8,62.3,4,5,1,Yes,Gunther
+93,WWE Royal Rumble,1/14/2023,Tag Team,Bianca Belair,Seth Rollins,58.2,77.6,3,5,1,Yes,Bianca Belair
+94,WWE SummerSlam,1/28/2024,Triple Threat,LA Knight,Seth Rollins,42.9,62.6,5,1,1,No,Seth Rollins
+95,WWE SmackDown,6/22/2025,Tag Team,Cody Rhodes,Becky Lynch,80.5,70.2,4,2,0,Yes,Cody Rhodes
+96,WWE Royal Rumble,1/18/2022,Steel Cage,Roman Reigns,Gunther,57.9,67.3,4,4,0,Yes,Gunther
+97,WWE SummerSlam,9/3/2024,Triple Threat,Gunther,Roman Reigns,65.2,60.1,2,4,1,No,Roman Reigns
+98,WWE Raw,7/4/2024,Tag Team,Gunther,Charlotte Flair,89,76.1,2,4,0,Yes,Gunther
+99,WWE Royal Rumble,11/7/2024,Singles,Drew McIntyre,Cody Rhodes,82.3,43.1,1,4,1,Yes,Drew McIntyre
+100,WWE WrestleMania,3/24/2025,Tag Team,LA Knight,Charlotte Flair,41.9,47,2,0,0,No,Charlotte Flair

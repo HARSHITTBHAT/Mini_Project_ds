@@ -1,0 +1,5 @@
+outs:
+- md5: 887726eb2ac64e90adcbe202a07e2442
+  size: 9729
+  hash: md5
+  path: wwe_dataset_for_100_wrestlers.csv
